@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-18T19:51:09 IST" name="SampleSuite" finished-at="2022-04-18T19:52:01 IST" duration-ms="51788">
+    <groups>
+    </groups>
+    <test started-at="2022-04-18T19:51:09 IST" name="SampleTest" finished-at="2022-04-18T19:52:01 IST" duration-ms="51788">
+      <class name="com.ifs.AutomationExerciseNew.TestNGExercise">
+        <test-method is-config="true" signature="automationTechnicalExercise()[pri:0, instance:com.ifs.AutomationExerciseNew.TestNGExercise@7c711375]" started-at="2022-04-18T19:51:09 IST" name="automationTechnicalExercise" finished-at="2022-04-18T19:51:09 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTechnicalExercise -->
+        <test-method signature="setUpChrome()[pri:0, instance:com.ifs.AutomationExerciseNew.TestNGExercise@7c711375]" started-at="2022-04-18T19:51:09 IST" name="setUpChrome" finished-at="2022-04-18T19:51:16 IST" duration-ms="6279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="siteNavigation()[pri:1, instance:com.ifs.AutomationExerciseNew.TestNGExercise@7c711375]" started-at="2022-04-18T19:51:16 IST" name="siteNavigation" finished-at="2022-04-18T19:51:20 IST" duration-ms="4353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteNavigation -->
+        <test-method signature="siteLogIn()[pri:2, instance:com.ifs.AutomationExerciseNew.TestNGExercise@7c711375]" started-at="2022-04-18T19:51:20 IST" name="siteLogIn" finished-at="2022-04-18T19:51:47 IST" duration-ms="26587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteLogIn -->
+        <test-method signature="searchItem()[pri:3, instance:com.ifs.AutomationExerciseNew.TestNGExercise@7c711375]" started-at="2022-04-18T19:51:47 IST" name="searchItem" finished-at="2022-04-18T19:51:50 IST" duration-ms="3353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="addIeam()[pri:4, instance:com.ifs.AutomationExerciseNew.TestNGExercise@7c711375]" started-at="2022-04-18T19:51:50 IST" name="addIeam" finished-at="2022-04-18T19:52:01 IST" duration-ms="11168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addIeam -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.ifs.AutomationExerciseNew.TestNGExercise@7c711375]" started-at="2022-04-18T19:52:01 IST" name="cleanUp" finished-at="2022-04-18T19:52:01 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.ifs.AutomationExerciseNew.TestNGExercise -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- SampleSuite -->
+</testng-results>

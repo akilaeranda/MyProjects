@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SampleSuite">
+
+
+    <test name="SampleTest">
+        <classes>
+            <class name="com.ifs.AutomationExerciseNew.TestNGExercise" />
+        </classes>
+    </test>
+
+    
+  	<!--  
+    <test name="SampleTest">
+        <classes>
+            <class name="com.ifs.AutomationExerciseNew.LaunchEbay" />
+            <class name="com.ifs.AutomationExerciseNew.LoginEbay" />
+            <class name="com.ifs.AutomationExerciseNew.eBayShopping" />
+        </classes>
+    </test>
+        -->
+</suite>
